@@ -1,1 +1,6 @@
 C:\Users\Kebab\Documents\GitHub\cron.NET\cron.NET\bin\Debug\cron.NET.exe.config
+C:\Users\Kebab\Documents\GitHub\cron.NET\cron.NET\bin\Debug\cron.NET.exe
+C:\Users\Kebab\Documents\GitHub\cron.NET\cron.NET\bin\Debug\cron.NET.pdb
+C:\Users\Kebab\Documents\GitHub\cron.NET\cron.NET\obj\Debug\cron.NET.csprojResolveAssemblyReference.cache
+C:\Users\Kebab\Documents\GitHub\cron.NET\cron.NET\obj\Debug\cron.NET.exe
+C:\Users\Kebab\Documents\GitHub\cron.NET\cron.NET\obj\Debug\cron.NET.pdb
