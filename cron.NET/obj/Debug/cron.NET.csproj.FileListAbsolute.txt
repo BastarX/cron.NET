@@ -1,0 +1,1 @@
+C:\Users\Kebab\Documents\GitHub\cron.NET\cron.NET\bin\Debug\cron.NET.exe.config
